@@ -1,0 +1,10 @@
+{
+  "summary": {
+    "html_pages": 65,
+    "pages_with_navbar_js": 14,
+    "pages_with_qa_helper": 58,
+    "js_files_checked": 95,
+    "syntax_failures": 0
+  },
+  "syntax_failures": []
+}

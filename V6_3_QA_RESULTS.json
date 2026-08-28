@@ -1,0 +1,14 @@
+{
+  "html_pages": 65,
+  "js_files_checked": 97,
+  "syntax_failures": 0,
+  "backend_routes_detected": 47,
+  "feature_services": [
+    "products",
+    "search",
+    "cart",
+    "orders",
+    "wishlist",
+    "notifications"
+  ]
+}
